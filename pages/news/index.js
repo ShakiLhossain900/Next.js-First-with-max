@@ -1,4 +1,4 @@
-//our-domain.com/news
+//our-domain.com/news/something-important
 
 function NewsPage (){
     return <h1>The News Page</h1>
